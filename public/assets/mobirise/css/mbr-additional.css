@@ -1,0 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+
+#header2-0 P {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 46px;
+}
+#header2-0 H1 {
+  font-family: 'Open Sans', sans-serif;
+}
