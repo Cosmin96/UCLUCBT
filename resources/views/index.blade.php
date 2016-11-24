@@ -132,12 +132,25 @@
 
     function researchPage(){
   
-      $("#logo").hide(500);
+      $("#logo").hide();
   
-    $("#research").show(1000);
+    $("#research").show();
     }
 
     function studentsPage(){
+  
+      $("#logo").hide();
+  
+    $("#students").show();
+    }
+    function researchPage(){
+  
+      $("#logo").hide();
+  
+    $("#research").show();
+    }
+
+    function advisoryPage(){
   
       $("#logo").hide();
   
