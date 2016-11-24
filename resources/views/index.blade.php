@@ -143,7 +143,7 @@
   
     $("#students").show();
     }
-    function researchPage(){
+    function engagementPage(){
   
       $("#logo").hide();
   
